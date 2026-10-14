@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.coverage
+reports/*.json
+reports/*.md
+reports/*.xml
+baselines/*.json

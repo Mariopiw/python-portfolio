@@ -1,12 +1,5 @@
-# Python Portfolio
 
-**Mariusz Piwowarczyk**
-
-Portfolio focused on Python automation, Applied AI, RAG, workflow engineering, and AI security.
-
-## Featured Project
-
-### AI Red-Team / Evaluation Harness Pro
+ AI Red-Team / Evaluation Harness Pro
 
 A professional evaluation harness for owned or explicitly authorized AI applications.
 

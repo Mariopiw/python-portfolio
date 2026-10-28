@@ -1,30 +1,26 @@
+Python & Secure AI Engineering Portfolio
 
- AI Red-Team / Evaluation Harness Pro
+Practical Python projects focused on automation, secure AI systems, and software reliability.
 
-A professional evaluation harness for owned or explicitly authorized AI applications.
+Featured Project
 
-It covers:
+"AI Red-Team / Evaluation Harness" (projects/ai-red-team-evaluation-harness-pro)
 
-- prompt injection
-- RAG poisoning
-- synthetic data leakage
-- hallucination / abstention
-- citation accuracy
-- cross-tenant isolation
-- workflow authorization boundaries
-- security regression baselines
-- release gates and structured reporting
+A security evaluation project for owned or explicitly authorized AI applications.
 
-**Project:** [AI Red-Team / Evaluation Harness Pro](projects/ai-red-team-evaluation-harness-pro)
+Key areas:
 
-## Portfolio Direction
+- Prompt injection and RAG security testing
+- Citation accuracy and hallucination evaluation
+- Data isolation and authorization testing
+- Regression testing and structured reporting
 
-Current focus:
+Technical Focus
 
-**Secure AI Solutions Engineering**
+Python · Automation · REST APIs · RAG · AI Security · Evaluation
 
-Applied AI · Automation · RAG · Security · Regulated Industries
+About
 
-## Skills
+Developing practical skills in Python engineering, secure AI solutions, and reliable business automation.
 
-Python · Git · GitHub · SQL · REST APIs · Automation · Applied AI · RAG · AI Security · Evaluation
+Explore the featured project for implementation details and documentation.
